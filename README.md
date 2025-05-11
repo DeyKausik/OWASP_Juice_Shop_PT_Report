@@ -1,2 +1,3 @@
 # OWASP_Juice_Shop_PT_Report
 OWASP Juice Shop Manual Penetration Test Report
+The OWASP Juice Shop is a deliberately insecure web application created for the purpose of security training and awareness. Over the past two months, I have extensively practiced and successfully compiled a comprehensive report detailing nearly 40 vulnerabilities found in the OWASP Juice Shop, complete with technical specifications and corresponding Proofs of Concept (POC).
